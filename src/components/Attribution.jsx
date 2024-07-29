@@ -21,12 +21,8 @@ function Attribution() {
       <p>
         <span>
           Coded by
-          <a
-            href="https://twitter.com/CodePapa360"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Alamin,
+          <a href="https://github.com/rafi983" target="_blank" rel="noreferrer">
+            Rafi Zaman,
           </a>
         </span>
         <span>
